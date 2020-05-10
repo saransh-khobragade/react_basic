@@ -22,3 +22,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.test1{
+  color: rgb(223, 74, 74);
+  height: 100px;
+  width: 300px;
+  border: 1px solid black;
+}
